@@ -1,0 +1,5 @@
+{
+  // Java verticle
+  "main":"com.emc.cyclone.platform.server.verticals.HttpServerVertical",
+  "auto-redeploy": true
+}
